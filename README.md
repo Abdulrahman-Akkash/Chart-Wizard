@@ -47,7 +47,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 ### Adım 1: Projeyi Klonlayın
 
 ```bash
-git clone [https://github.com/KULLANICI_ADIN/Chart-Wizard-AI.git](https://github.com/KULLANICI_ADIN/Chart-Wizard-AI.git)
+git clone https://github.com/Abdulrahman-Akkash/Chart-Wizard
 cd Chart-Wizard-AI
 Adım 2: Gerekli Kütüphaneleri YükleyinBashpip install -r requirements.txt
 Adım 3: Uygulamayı BaşlatınBashpython -m streamlit run app.py
